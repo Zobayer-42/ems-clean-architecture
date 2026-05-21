@@ -1,0 +1,162 @@
+# Employee Management System (EMS)
+
+A backend system built with .NET 9, ASP.NET Core Web API, and Clean Architecture.
+
+---
+
+## Technology Stack
+
+-Backend: .NET 9, ASP.NET Core Web API
+-ORM: Entity Framework Core
+-Main Database: MSSQL
+-Log Database: PostgreSQL
+-Authentication: JWT Bearer Token
+-Authorization: Database-driven RBAC
+-Validation: FluentValidation
+
+---
+
+## Project Structure
+
+EmployeeManagementSystem/
+??? EmployeeManagement.Domain          # Core entities, enums
+??? EmployeeManagement.Application     # Business logic, DTOs, Services
+??? EmployeeManagement.Persistence     # MSSQL, EF Core, Repositories
+??? EmployeeManagement.Infrastructure  # JWT, Password Hashing, PostgreSQL Logs
+??? EmployeeManagement.Shared          # Response models, Exceptions
+??? EmployeeManagement.Configuration   # DI Registration, Middleware
+??? EmployeeManagement.WebAPI          # Controllers, Program.cs
+
+---
+
+## Prerequisites
+
+- [.NET 9 SDK]
+- [MSSQL Server]
+- [PostgreSQL]
+- [Visual Studio 2022]
+
+## Database Configuration
+
+-1. `appsettings.json`
+
+`EmployeeManagement.WebAPI/appsettings.json` ? database credentials ?
+
+-json
+{
+  "ConnectionStrings": {
+    "MsSqlConnection": "Server=localhost;Database=EmployeeManagementDB;Trusted_Connection=True;TrustServerCertificate=True;",
+    "PostgresConnection": "Host=localhost;Database=EmsLogs;Username=postgres;Password=yourpassword"
+  },
+  "JwtSettings": {
+    "SecretKey": "YourSuperSecretKeyHereMustBe32CharactersLong!",
+    "Issuer": "EmployeeManagementSystem",
+    "Audience": "EmployeeManagementSystem",
+    "ExpiryMinutes": 60
+  }
+}
+
+---
+
+## API Testing
+
+### Step 1 — Register ???
+
+POST /api/auth/register
+
+-json
+{
+  "username": "admin",
+  "email": "admin@ems.com",
+  "password": "Admin@123"
+}
+
+---
+
+### Step 2 — Login
+
+POST /api/auth/login
+
+-json
+{
+  "email": "admin@ems.com",
+  "password": "Admin@123"
+}
+
+Response ? `token`
+-json
+{
+  "isSuccess": true,
+  "statusCode": "200",
+  "message": "Login successful",
+  "data": {
+    "token": "eyJhbGciOiJIUzI1NiIs...",
+    "username": "admin",
+    "email": "admin@ems.com",
+    "roles": ["Admin"],
+    "permissions": ["employee.create", "employee.read", ...],
+    "expiresAt": "2024-01-01T01:00:00Z"
+  }
+}
+
+---
+
+### Step 4 — API Endpoints Test ???
+
+#### Department
+
+| Method | Endpoint | Permission |
+
+| GET | /api/departments | department|
+| GET | /api/departments/{id}` | `department|
+| POST | /api/departments | department.create |
+| PUT | /api/departments/{id} | department.update |
+| DELETE | /api/departments/{id} | department.delete |
+
+#### Designation
+
+| Method | Endpoint | Permission |
+
+| GET | `/api/designations` | `department|
+| GET | `/api/designations/{id}` | `department|
+| POST | `/api/designations` | `department.create` |
+| PUT | `/api/designations/{id}` | `department.update` |
+| DELETE | `/api/designations/{id}` | `department.delete` |
+
+#### Employee
+
+| Method | Endpoint | Permission |
+
+| GET | `/api/employees` | `employee|
+| GET | `/api/employees/{id}` | `employee |
+| POST | `/api/employees` | `employee.create` |
+| PUT | `/api/employees/{id}` | `employee.update` |
+| PATCH | `/api/employees/{id}/deactivate` | `employee.delete` |
+
+#### Salary
+
+| Method | Endpoint | Permission |
+
+| POST | `/api/salaries/disburse` | `salary.disburse` |
+| GET | `/api/salaries/employee/{employeeId}` | `salary |
+| GET | `/api/salaries/{month}/{year}` | `salary |
+
+#### Report
+
+| Method | Endpoint | Permission |
+
+| GET | /api/reports/total-disbursed/{month}/{year} | report|
+| GET | /api/reports/department/{departmentId} | reprt|
+| GET | /api/reports/monthly-summary/{month}/{year} | report|
+| GET | /api/reports/employee-history/{employeeId} | report|
+
+
+## Default Roles & Permissions
+
+System ? ????? default role ??? —
+
+| Role | Permissions |
+
+| `Admin` | ?? permissions |
+| `HR` | Employee, Department, Designation |
+| `Accountant` | Salary, Report |

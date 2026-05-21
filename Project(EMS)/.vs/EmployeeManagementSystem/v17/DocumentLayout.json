@@ -1,0 +1,1629 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project(EMS)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F51A0-26F2-4A16-9AEC-355E3E1ABBF3}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|d:\\project(ems)\\employeemanagement.domain\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4F51A0-26F2-4A16-9AEC-355E3E1ABBF3}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|solutionrelative:employeemanagement.domain\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AD6ACB-CF7F-448D-A02A-BAA94C773E32}|EmployeeManagement.WebAPI\\EmployeeManagement.WebAPI.csproj|d:\\project(ems)\\employeemanagement.webapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AD6ACB-CF7F-448D-A02A-BAA94C773E32}|EmployeeManagement.WebAPI\\EmployeeManagement.WebAPI.csproj|solutionrelative:employeemanagement.webapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F51A0-26F2-4A16-9AEC-355E3E1ABBF3}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|d:\\project(ems)\\employeemanagement.domain\\models\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4F51A0-26F2-4A16-9AEC-355E3E1ABBF3}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|solutionrelative:employeemanagement.domain\\models\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F51A0-26F2-4A16-9AEC-355E3E1ABBF3}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|d:\\project(ems)\\employeemanagement.domain\\models\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4F51A0-26F2-4A16-9AEC-355E3E1ABBF3}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|solutionrelative:employeemanagement.domain\\models\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F51A0-26F2-4A16-9AEC-355E3E1ABBF3}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|d:\\project(ems)\\employeemanagement.domain\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4F51A0-26F2-4A16-9AEC-355E3E1ABBF3}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|solutionrelative:employeemanagement.domain\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F51A0-26F2-4A16-9AEC-355E3E1ABBF3}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|d:\\project(ems)\\employeemanagement.domain\\models\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4F51A0-26F2-4A16-9AEC-355E3E1ABBF3}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|solutionrelative:employeemanagement.domain\\models\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F51A0-26F2-4A16-9AEC-355E3E1ABBF3}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|d:\\project(ems)\\employeemanagement.domain\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4F51A0-26F2-4A16-9AEC-355E3E1ABBF3}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|solutionrelative:employeemanagement.domain\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|d:\\project(ems)\\employeemanagement.persistence\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|solutionrelative:employeemanagement.persistence\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\Project(EMS)\\README.Md. Zobayer Hossen||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:README.Md. Zobayer Hossen||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|d:\\project(ems)\\employeemanagement.persistence\\configurations\\permissionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|solutionrelative:employeemanagement.persistence\\configurations\\permissionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A8EF84-86DF-46F9-8EBE-51BE83F3AD62}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|d:\\project(ems)\\employeemanagement.infrastructure\\security\\permissionrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A8EF84-86DF-46F9-8EBE-51BE83F3AD62}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:employeemanagement.infrastructure\\security\\permissionrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A8EF84-86DF-46F9-8EBE-51BE83F3AD62}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|d:\\project(ems)\\employeemanagement.infrastructure\\security\\permissionauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A8EF84-86DF-46F9-8EBE-51BE83F3AD62}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:employeemanagement.infrastructure\\security\\permissionauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A8EF84-86DF-46F9-8EBE-51BE83F3AD62}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|d:\\project(ems)\\employeemanagement.infrastructure\\security\\permissionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A8EF84-86DF-46F9-8EBE-51BE83F3AD62}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:employeemanagement.infrastructure\\security\\permissionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AD6ACB-CF7F-448D-A02A-BAA94C773E32}|EmployeeManagement.WebAPI\\EmployeeManagement.WebAPI.csproj|d:\\project(ems)\\employeemanagement.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81AD6ACB-CF7F-448D-A02A-BAA94C773E32}|EmployeeManagement.WebAPI\\EmployeeManagement.WebAPI.csproj|solutionrelative:employeemanagement.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\services\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\services\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|d:\\project(ems)\\employeemanagement.persistence\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|solutionrelative:employeemanagement.persistence\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\services\\implementations\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\services\\implementations\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|d:\\project(ems)\\employeemanagement.persistence\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|solutionrelative:employeemanagement.persistence\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|d:\\project(ems)\\employeemanagement.persistence\\repositories\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|solutionrelative:employeemanagement.persistence\\repositories\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AD6ACB-CF7F-448D-A02A-BAA94C773E32}|EmployeeManagement.WebAPI\\EmployeeManagement.WebAPI.csproj|d:\\project(ems)\\employeemanagement.webapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AD6ACB-CF7F-448D-A02A-BAA94C773E32}|EmployeeManagement.WebAPI\\EmployeeManagement.WebAPI.csproj|solutionrelative:employeemanagement.webapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A8EF84-86DF-46F9-8EBE-51BE83F3AD62}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|d:\\project(ems)\\employeemanagement.infrastructure\\logging\\logdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A8EF84-86DF-46F9-8EBE-51BE83F3AD62}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:employeemanagement.infrastructure\\logging\\logdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A8EF84-86DF-46F9-8EBE-51BE83F3AD62}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|d:\\project(ems)\\employeemanagement.infrastructure\\logging\\logdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A8EF84-86DF-46F9-8EBE-51BE83F3AD62}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:employeemanagement.infrastructure\\logging\\logdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project(EMS)\\EmployeeManagement.Infrastructure\\Migrations\\20260520170545_AddActivityLogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeManagement.Infrastructure\\Migrations\\20260520170545_AddActivityLogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|d:\\project(ems)\\employeemanagement.persistence\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|solutionrelative:employeemanagement.persistence\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|d:\\project(ems)\\employeemanagement.persistence\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|solutionrelative:employeemanagement.persistence\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423DEE50-7B39-4582-9BEF-F563B0B0740D}|EmployeeManagement.Configuration\\EmployeeManagement.Configuration.csproj|d:\\project(ems)\\employeemanagement.configuration\\dependencyinjection\\persistenceserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423DEE50-7B39-4582-9BEF-F563B0B0740D}|EmployeeManagement.Configuration\\EmployeeManagement.Configuration.csproj|solutionrelative:employeemanagement.configuration\\dependencyinjection\\persistenceserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423DEE50-7B39-4582-9BEF-F563B0B0740D}|EmployeeManagement.Configuration\\EmployeeManagement.Configuration.csproj|d:\\project(ems)\\employeemanagement.configuration\\dependencyinjection\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423DEE50-7B39-4582-9BEF-F563B0B0740D}|EmployeeManagement.Configuration\\EmployeeManagement.Configuration.csproj|solutionrelative:employeemanagement.configuration\\dependencyinjection\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A8EF84-86DF-46F9-8EBE-51BE83F3AD62}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|d:\\project(ems)\\employeemanagement.infrastructure\\logging\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A8EF84-86DF-46F9-8EBE-51BE83F3AD62}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:employeemanagement.infrastructure\\logging\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AD6ACB-CF7F-448D-A02A-BAA94C773E32}|EmployeeManagement.WebAPI\\EmployeeManagement.WebAPI.csproj|d:\\project(ems)\\employeemanagement.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AD6ACB-CF7F-448D-A02A-BAA94C773E32}|EmployeeManagement.WebAPI\\EmployeeManagement.WebAPI.csproj|solutionrelative:employeemanagement.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AD6ACB-CF7F-448D-A02A-BAA94C773E32}|EmployeeManagement.WebAPI\\EmployeeManagement.WebAPI.csproj|d:\\project(ems)\\employeemanagement.webapi\\controllers\\designationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AD6ACB-CF7F-448D-A02A-BAA94C773E32}|EmployeeManagement.WebAPI\\EmployeeManagement.WebAPI.csproj|solutionrelative:employeemanagement.webapi\\controllers\\designationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|d:\\project(ems)\\employeemanagement.persistence\\configurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|solutionrelative:employeemanagement.persistence\\configurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\contracts\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\contracts\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A8EF84-86DF-46F9-8EBE-51BE83F3AD62}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|d:\\project(ems)\\employeemanagement.infrastructure\\security\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A8EF84-86DF-46F9-8EBE-51BE83F3AD62}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:employeemanagement.infrastructure\\security\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A8EF84-86DF-46F9-8EBE-51BE83F3AD62}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|d:\\project(ems)\\employeemanagement.infrastructure\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A8EF84-86DF-46F9-8EBE-51BE83F3AD62}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:employeemanagement.infrastructure\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\contracts\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\contracts\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AD6ACB-CF7F-448D-A02A-BAA94C773E32}|EmployeeManagement.WebAPI\\EmployeeManagement.WebAPI.csproj|d:\\project(ems)\\employeemanagement.webapi\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AD6ACB-CF7F-448D-A02A-BAA94C773E32}|EmployeeManagement.WebAPI\\EmployeeManagement.WebAPI.csproj|solutionrelative:employeemanagement.webapi\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AD6ACB-CF7F-448D-A02A-BAA94C773E32}|EmployeeManagement.WebAPI\\EmployeeManagement.WebAPI.csproj|d:\\project(ems)\\employeemanagement.webapi\\controllers\\salarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AD6ACB-CF7F-448D-A02A-BAA94C773E32}|EmployeeManagement.WebAPI\\EmployeeManagement.WebAPI.csproj|solutionrelative:employeemanagement.webapi\\controllers\\salarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AD6ACB-CF7F-448D-A02A-BAA94C773E32}|EmployeeManagement.WebAPI\\EmployeeManagement.WebAPI.csproj|d:\\project(ems)\\employeemanagement.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AD6ACB-CF7F-448D-A02A-BAA94C773E32}|EmployeeManagement.WebAPI\\EmployeeManagement.WebAPI.csproj|solutionrelative:employeemanagement.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\services\\implementations\\salaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\services\\implementations\\salaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\services\\implementations\\designationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\services\\implementations\\designationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\services\\implementations\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\services\\implementations\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|d:\\project(ems)\\employeemanagement.persistence\\repositories\\interfaces\\isalaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|solutionrelative:employeemanagement.persistence\\repositories\\interfaces\\isalaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|d:\\project(ems)\\employeemanagement.persistence\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|solutionrelative:employeemanagement.persistence\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\contracts\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\contracts\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|d:\\project(ems)\\employeemanagement.persistence\\configurations\\rolepermissionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|solutionrelative:employeemanagement.persistence\\configurations\\rolepermissionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|d:\\project(ems)\\employeemanagement.persistence\\configurations\\userroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|solutionrelative:employeemanagement.persistence\\configurations\\userroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AD6ACB-CF7F-448D-A02A-BAA94C773E32}|EmployeeManagement.WebAPI\\EmployeeManagement.WebAPI.csproj|d:\\project(ems)\\employeemanagement.webapi\\employeemanagement.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81AD6ACB-CF7F-448D-A02A-BAA94C773E32}|EmployeeManagement.WebAPI\\EmployeeManagement.WebAPI.csproj|solutionrelative:employeemanagement.webapi\\employeemanagement.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423DEE50-7B39-4582-9BEF-F563B0B0740D}|EmployeeManagement.Configuration\\EmployeeManagement.Configuration.csproj|d:\\project(ems)\\employeemanagement.configuration\\dependencyinjection\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423DEE50-7B39-4582-9BEF-F563B0B0740D}|EmployeeManagement.Configuration\\EmployeeManagement.Configuration.csproj|solutionrelative:employeemanagement.configuration\\dependencyinjection\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F51A0-26F2-4A16-9AEC-355E3E1ABBF3}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|d:\\project(ems)\\employeemanagement.domain\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4F51A0-26F2-4A16-9AEC-355E3E1ABBF3}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|solutionrelative:employeemanagement.domain\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F51A0-26F2-4A16-9AEC-355E3E1ABBF3}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|d:\\project(ems)\\employeemanagement.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4F51A0-26F2-4A16-9AEC-355E3E1ABBF3}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|solutionrelative:employeemanagement.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\employeemanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\employeemanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A8EF84-86DF-46F9-8EBE-51BE83F3AD62}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|d:\\project(ems)\\employeemanagement.infrastructure\\employeemanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{51A8EF84-86DF-46F9-8EBE-51BE83F3AD62}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:employeemanagement.infrastructure\\employeemanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|d:\\project(ems)\\employeemanagement.persistence\\employeemanagement.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|solutionrelative:employeemanagement.persistence\\employeemanagement.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\services\\implementations\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\services\\implementations\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\validators\\createdepartmentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\validators\\createdepartmentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\services\\interfaces\\isalaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\services\\interfaces\\isalaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\services\\interfaces\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\services\\interfaces\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\services\\interfaces\\idesignationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\services\\interfaces\\idesignationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\services\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\services\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\validators\\createemployeevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\validators\\createemployeevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423DEE50-7B39-4582-9BEF-F563B0B0740D}|EmployeeManagement.Configuration\\EmployeeManagement.Configuration.csproj|d:\\project(ems)\\employeemanagement.configuration\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423DEE50-7B39-4582-9BEF-F563B0B0740D}|EmployeeManagement.Configuration\\EmployeeManagement.Configuration.csproj|solutionrelative:employeemanagement.configuration\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\validators\\loginrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\validators\\loginrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\validators\\salarydisbursementvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\validators\\salarydisbursementvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|d:\\project(ems)\\employeemanagement.persistence\\repositories\\implementations\\salaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|solutionrelative:employeemanagement.persistence\\repositories\\implementations\\salaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|d:\\project(ems)\\employeemanagement.persistence\\repositories\\implementations\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|solutionrelative:employeemanagement.persistence\\repositories\\implementations\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|d:\\project(ems)\\employeemanagement.persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|solutionrelative:employeemanagement.persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|d:\\project(ems)\\employeemanagement.persistence\\configurations\\salarydisbursementconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|solutionrelative:employeemanagement.persistence\\configurations\\salarydisbursementconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|d:\\project(ems)\\employeemanagement.persistence\\configurations\\designationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|solutionrelative:employeemanagement.persistence\\configurations\\designationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|d:\\project(ems)\\employeemanagement.persistence\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|solutionrelative:employeemanagement.persistence\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|d:\\project(ems)\\employeemanagement.persistence\\configurations\\baseentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651F751F-6778-46A1-AF0B-CE72C4EBD104}|EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj|solutionrelative:employeemanagement.persistence\\configurations\\baseentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\dto\\response\\auth\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\dto\\response\\auth\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\dto\\response\\salary\\salaryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\dto\\response\\salary\\salaryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\dto\\response\\employee\\employeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\dto\\response\\employee\\employeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\dto\\response\\designation\\designationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\dto\\response\\designation\\designationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\dto\\response\\department\\departmentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\dto\\response\\department\\departmentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\dto\\request\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\dto\\request\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\dto\\request\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\dto\\request\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\dto\\request\\salary\\salarydisbursementrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\dto\\request\\salary\\salarydisbursementrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\dto\\request\\employee\\updateemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\dto\\request\\employee\\updateemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\dto\\request\\employee\\createemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\dto\\request\\employee\\createemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\dto\\request\\designation\\updatedesignationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\dto\\request\\designation\\updatedesignationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\dto\\request\\designation\\createdesignationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\dto\\request\\designation\\createdesignationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\dto\\request\\department\\updatedepartmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\dto\\request\\department\\updatedepartmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|d:\\project(ems)\\employeemanagement.application\\dto\\request\\department\\createdepartmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29B70DF-C2C2-4442-94AB-632E7933F522}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\dto\\request\\department\\createdepartmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AACF25-8E0C-7053-895D-A464503D4741}|EmployeeManagement.Shared\\EmployeeManagement.Shared.csproj|d:\\project(ems)\\employeemanagement.shared\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AACF25-8E0C-7053-895D-A464503D4741}|EmployeeManagement.Shared\\EmployeeManagement.Shared.csproj|solutionrelative:employeemanagement.shared\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AACF25-8E0C-7053-895D-A464503D4741}|EmployeeManagement.Shared\\EmployeeManagement.Shared.csproj|d:\\project(ems)\\employeemanagement.shared\\exceptions\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AACF25-8E0C-7053-895D-A464503D4741}|EmployeeManagement.Shared\\EmployeeManagement.Shared.csproj|solutionrelative:employeemanagement.shared\\exceptions\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AACF25-8E0C-7053-895D-A464503D4741}|EmployeeManagement.Shared\\EmployeeManagement.Shared.csproj|d:\\project(ems)\\employeemanagement.shared\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AACF25-8E0C-7053-895D-A464503D4741}|EmployeeManagement.Shared\\EmployeeManagement.Shared.csproj|solutionrelative:employeemanagement.shared\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AACF25-8E0C-7053-895D-A464503D4741}|EmployeeManagement.Shared\\EmployeeManagement.Shared.csproj|d:\\project(ems)\\employeemanagement.shared\\response\\standardresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AACF25-8E0C-7053-895D-A464503D4741}|EmployeeManagement.Shared\\EmployeeManagement.Shared.csproj|solutionrelative:employeemanagement.shared\\response\\standardresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AACF25-8E0C-7053-895D-A464503D4741}|EmployeeManagement.Shared\\EmployeeManagement.Shared.csproj|d:\\project(ems)\\employeemanagement.shared\\response\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AACF25-8E0C-7053-895D-A464503D4741}|EmployeeManagement.Shared\\EmployeeManagement.Shared.csproj|solutionrelative:employeemanagement.shared\\response\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AACF25-8E0C-7053-895D-A464503D4741}|EmployeeManagement.Shared\\EmployeeManagement.Shared.csproj|d:\\project(ems)\\employeemanagement.shared\\config\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AACF25-8E0C-7053-895D-A464503D4741}|EmployeeManagement.Shared\\EmployeeManagement.Shared.csproj|solutionrelative:employeemanagement.shared\\config\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AACF25-8E0C-7053-895D-A464503D4741}|EmployeeManagement.Shared\\EmployeeManagement.Shared.csproj|d:\\project(ems)\\employeemanagement.shared\\exceptions\\forbiddenexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AACF25-8E0C-7053-895D-A464503D4741}|EmployeeManagement.Shared\\EmployeeManagement.Shared.csproj|solutionrelative:employeemanagement.shared\\exceptions\\forbiddenexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AACF25-8E0C-7053-895D-A464503D4741}|EmployeeManagement.Shared\\EmployeeManagement.Shared.csproj|d:\\project(ems)\\employeemanagement.shared\\response\\responsehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AACF25-8E0C-7053-895D-A464503D4741}|EmployeeManagement.Shared\\EmployeeManagement.Shared.csproj|solutionrelative:employeemanagement.shared\\response\\responsehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F51A0-26F2-4A16-9AEC-355E3E1ABBF3}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|d:\\project(ems)\\employeemanagement.domain\\models\\salarydisbursement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4F51A0-26F2-4A16-9AEC-355E3E1ABBF3}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|solutionrelative:employeemanagement.domain\\models\\salarydisbursement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F51A0-26F2-4A16-9AEC-355E3E1ABBF3}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|d:\\project(ems)\\employeemanagement.domain\\enums\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4F51A0-26F2-4A16-9AEC-355E3E1ABBF3}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|solutionrelative:employeemanagement.domain\\enums\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F51A0-26F2-4A16-9AEC-355E3E1ABBF3}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|d:\\project(ems)\\employeemanagement.domain\\enums\\employeestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4F51A0-26F2-4A16-9AEC-355E3E1ABBF3}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|solutionrelative:employeemanagement.domain\\enums\\employeestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F51A0-26F2-4A16-9AEC-355E3E1ABBF3}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|d:\\project(ems)\\employeemanagement.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4F51A0-26F2-4A16-9AEC-355E3E1ABBF3}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|solutionrelative:employeemanagement.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Domain\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Domain\\Models\\Employee.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Domain\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagement.Domain\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T18:58:33.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Domain\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Domain\\Models\\Department.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Domain\\Models\\Department.cs",
+              "RelativeToolTip": "EmployeeManagement.Domain\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T18:51:03.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Designation.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Domain\\Models\\Designation.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Domain\\Models\\Designation.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Domain\\Models\\Designation.cs",
+              "RelativeToolTip": "EmployeeManagement.Domain\\Models\\Designation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T18:56:08.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Domain\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Domain\\Models\\UserRole.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Domain\\Models\\UserRole.cs",
+              "RelativeToolTip": "EmployeeManagement.Domain\\Models\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:26:18.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Domain\\Models\\Permission.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Domain\\Models\\Permission.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Domain\\Models\\Permission.cs",
+              "RelativeToolTip": "EmployeeManagement.Domain\\Models\\Permission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T19:07:24.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RolePermission.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Domain\\Models\\RolePermission.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Domain\\Models\\RolePermission.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Domain\\Models\\RolePermission.cs",
+              "RelativeToolTip": "EmployeeManagement.Domain\\Models\\RolePermission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:26:39.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.WebAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.WebAPI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.WebAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeManagement.WebAPI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T08:23:09.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeConfiguration.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Configurations\\EmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Persistence\\Configurations\\EmployeeConfiguration.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Configurations\\EmployeeConfiguration.cs",
+              "RelativeToolTip": "EmployeeManagement.Persistence\\Configurations\\EmployeeConfiguration.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:26:53.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "README.Md. Zobayer Hossen",
+              "DocumentMoniker": "D:\\Project(EMS)\\README.Md. Zobayer Hossen",
+              "RelativeDocumentMoniker": "README.Md. Zobayer Hossen",
+              "ToolTip": "D:\\Project(EMS)\\README.Md. Zobayer Hossen",
+              "RelativeToolTip": "README.Md. Zobayer Hossen",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-20T17:55:02.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PermissionRequirement.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Infrastructure\\Security\\PermissionRequirement.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Infrastructure\\Security\\PermissionRequirement.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Infrastructure\\Security\\PermissionRequirement.cs",
+              "RelativeToolTip": "EmployeeManagement.Infrastructure\\Security\\PermissionRequirement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T18:09:23.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PermissionAuthorizationHandler.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Infrastructure\\Security\\PermissionAuthorizationHandler.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Infrastructure\\Security\\PermissionAuthorizationHandler.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Infrastructure\\Security\\PermissionAuthorizationHandler.cs",
+              "RelativeToolTip": "EmployeeManagement.Infrastructure\\Security\\PermissionAuthorizationHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T18:10:06.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PermissionConfiguration.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Configurations\\PermissionConfiguration.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Persistence\\Configurations\\PermissionConfiguration.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Configurations\\PermissionConfiguration.cs",
+              "RelativeToolTip": "EmployeeManagement.Persistence\\Configurations\\PermissionConfiguration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:29:44.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PermissionAttribute.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Infrastructure\\Security\\PermissionAttribute.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Infrastructure\\Security\\PermissionAttribute.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Infrastructure\\Security\\PermissionAttribute.cs",
+              "RelativeToolTip": "EmployeeManagement.Infrastructure\\Security\\PermissionAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T18:11:14.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagement.WebAPI\\appsettings.json",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.WebAPI\\appsettings.json",
+              "RelativeToolTip": "EmployeeManagement.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-17T18:17:55.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Persistence\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "EmployeeManagement.Persistence\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA7wCgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:40:28.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Persistence\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "EmployeeManagement.Persistence\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:39:50.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\Services\\Implementations\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Services\\Implementations\\EmployeeService.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\Services\\Implementations\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Services\\Implementations\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T19:18:33.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\Services\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Services\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\Services\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Services\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:18:35.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Repositories\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Persistence\\Repositories\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Repositories\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeManagement.Persistence\\Repositories\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T08:10:05.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.WebAPI\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.WebAPI\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.WebAPI\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "EmployeeManagement.WebAPI\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T08:21:36.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LogDbContextFactory.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Infrastructure\\Logging\\LogDbContextFactory.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Infrastructure\\Logging\\LogDbContextFactory.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Infrastructure\\Logging\\LogDbContextFactory.cs",
+              "RelativeToolTip": "EmployeeManagement.Infrastructure\\Logging\\LogDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T18:16:51.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LogDbContext.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Infrastructure\\Logging\\LogDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Infrastructure\\Logging\\LogDbContext.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Infrastructure\\Logging\\LogDbContext.cs",
+              "RelativeToolTip": "EmployeeManagement.Infrastructure\\Logging\\LogDbContext.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T18:13:15.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20260520170545_AddActivityLogs.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Infrastructure\\Migrations\\20260520170545_AddActivityLogs.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Infrastructure\\Migrations\\20260520170545_AddActivityLogs.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Infrastructure\\Migrations\\20260520170545_AddActivityLogs.cs",
+              "RelativeToolTip": "EmployeeManagement.Infrastructure\\Migrations\\20260520170545_AddActivityLogs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:05:46.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Repositories\\Implementations\\Repository.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Persistence\\Repositories\\Implementations\\Repository.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Repositories\\Implementations\\Repository.cs",
+              "RelativeToolTip": "EmployeeManagement.Persistence\\Repositories\\Implementations\\Repository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:34:28.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\DbContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Persistence\\DbContext\\AppDbContext.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\DbContext\\AppDbContext.cs",
+              "RelativeToolTip": "EmployeeManagement.Persistence\\DbContext\\AppDbContext.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:12:30.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PersistenceServiceRegistration.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Configuration\\DependencyInjection\\PersistenceServiceRegistration.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Configuration\\DependencyInjection\\PersistenceServiceRegistration.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Configuration\\DependencyInjection\\PersistenceServiceRegistration.cs",
+              "RelativeToolTip": "EmployeeManagement.Configuration\\DependencyInjection\\PersistenceServiceRegistration.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T18:24:16.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "InfrastructureServiceRegistration.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Configuration\\DependencyInjection\\InfrastructureServiceRegistration.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Configuration\\DependencyInjection\\InfrastructureServiceRegistration.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Configuration\\DependencyInjection\\InfrastructureServiceRegistration.cs",
+              "RelativeToolTip": "EmployeeManagement.Configuration\\DependencyInjection\\InfrastructureServiceRegistration.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T18:25:08.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LogService.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Infrastructure\\Logging\\LogService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Infrastructure\\Logging\\LogService.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Infrastructure\\Logging\\LogService.cs",
+              "RelativeToolTip": "EmployeeManagement.Infrastructure\\Logging\\LogService.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAUwEUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T18:15:07.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EmployeeManagement.WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwBYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T08:19:58.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DesignationController.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.WebAPI\\Controllers\\DesignationController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.WebAPI\\Controllers\\DesignationController.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.WebAPI\\Controllers\\DesignationController.cs",
+              "RelativeToolTip": "EmployeeManagement.WebAPI\\Controllers\\DesignationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T08:22:20.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RoleConfiguration.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Configurations\\RoleConfiguration.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Persistence\\Configurations\\RoleConfiguration.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Configurations\\RoleConfiguration.cs",
+              "RelativeToolTip": "EmployeeManagement.Persistence\\Configurations\\RoleConfiguration.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:29:00.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ILogService.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\Contracts\\ILogService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Contracts\\ILogService.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\Contracts\\ILogService.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Contracts\\ILogService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T08:03:06.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Infrastructure\\Security\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Infrastructure\\Security\\JwtTokenService.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Infrastructure\\Security\\JwtTokenService.cs",
+              "RelativeToolTip": "EmployeeManagement.Infrastructure\\Security\\JwtTokenService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T18:08:21.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Infrastructure\\Security\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Infrastructure\\Security\\PasswordHasher.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Infrastructure\\Security\\PasswordHasher.cs",
+              "RelativeToolTip": "EmployeeManagement.Infrastructure\\Security\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T18:07:05.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\Contracts\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Contracts\\IPasswordHasher.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\Contracts\\IPasswordHasher.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Contracts\\IPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T08:03:45.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\Services\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Services\\Implementations\\AuthService.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\Services\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Services\\Implementations\\AuthService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwBQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T19:09:47.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.WebAPI\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.WebAPI\\Controllers\\ReportController.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.WebAPI\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "EmployeeManagement.WebAPI\\Controllers\\ReportController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T08:24:38.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SalaryController.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.WebAPI\\Controllers\\SalaryController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.WebAPI\\Controllers\\SalaryController.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.WebAPI\\Controllers\\SalaryController.cs",
+              "RelativeToolTip": "EmployeeManagement.WebAPI\\Controllers\\SalaryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T08:23:59.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\Services\\Implementations\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Services\\Implementations\\DepartmentService.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\Services\\Implementations\\DepartmentService.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Services\\Implementations\\DepartmentService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAvwAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T19:15:33.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DesignationService.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\Services\\Implementations\\DesignationService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Services\\Implementations\\DesignationService.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\Services\\Implementations\\DesignationService.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Services\\Implementations\\DesignationService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T19:17:35.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SalaryService.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\Services\\Implementations\\SalaryService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Services\\Implementations\\SalaryService.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\Services\\Implementations\\SalaryService.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Services\\Implementations\\SalaryService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIAwwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T19:19:42.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.WebAPI\\Program.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.WebAPI\\Program.cs",
+              "RelativeToolTip": "EmployeeManagement.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T18:34:45.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ISalaryRepository.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Repositories\\Interfaces\\ISalaryRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Persistence\\Repositories\\Interfaces\\ISalaryRepository.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Repositories\\Interfaces\\ISalaryRepository.cs",
+              "RelativeToolTip": "EmployeeManagement.Persistence\\Repositories\\Interfaces\\ISalaryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T08:10:30.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Persistence\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "EmployeeManagement.Persistence\\Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T08:09:26.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IJwtTokenService.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\Contracts\\IJwtTokenService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Contracts\\IJwtTokenService.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\Contracts\\IJwtTokenService.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Contracts\\IJwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T08:04:19.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RolePermissionConfiguration.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Configurations\\RolePermissionConfiguration.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Persistence\\Configurations\\RolePermissionConfiguration.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Configurations\\RolePermissionConfiguration.cs",
+              "RelativeToolTip": "EmployeeManagement.Persistence\\Configurations\\RolePermissionConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:31:50.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UserRoleConfiguration.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Configurations\\UserRoleConfiguration.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Persistence\\Configurations\\UserRoleConfiguration.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Configurations\\UserRoleConfiguration.cs",
+              "RelativeToolTip": "EmployeeManagement.Persistence\\Configurations\\UserRoleConfiguration.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:31:15.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "EmployeeManagement.WebAPI.csproj",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.WebAPI\\EmployeeManagement.WebAPI.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagement.WebAPI\\EmployeeManagement.WebAPI.csproj",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.WebAPI\\EmployeeManagement.WebAPI.csproj",
+              "RelativeToolTip": "EmployeeManagement.WebAPI\\EmployeeManagement.WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-19T05:58:32.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ApplicationServiceRegistration.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Configuration\\DependencyInjection\\ApplicationServiceRegistration.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Configuration\\DependencyInjection\\ApplicationServiceRegistration.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Configuration\\DependencyInjection\\ApplicationServiceRegistration.cs",
+              "RelativeToolTip": "EmployeeManagement.Configuration\\DependencyInjection\\ApplicationServiceRegistration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAtwAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T18:26:39.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Domain\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Domain\\Models\\Role.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Domain\\Models\\Role.cs",
+              "RelativeToolTip": "EmployeeManagement.Domain\\Models\\Role.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T19:05:44.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Domain\\Models\\User.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Domain\\Models\\User.cs",
+              "RelativeToolTip": "EmployeeManagement.Domain\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:25:06.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "EmployeeManagement.Application.csproj",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\EmployeeManagement.Application.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\EmployeeManagement.Application.csproj",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\EmployeeManagement.Application.csproj",
+              "RelativeToolTip": "EmployeeManagement.Application\\EmployeeManagement.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-17T19:34:26.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "EmployeeManagement.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj",
+              "RelativeToolTip": "EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-17T19:34:04.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "EmployeeManagement.Persistence.csproj",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj",
+              "RelativeToolTip": "EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-17T19:36:20.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\Services\\Implementations\\ReportService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Services\\Implementations\\ReportService.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\Services\\Implementations\\ReportService.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Services\\Implementations\\ReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T19:20:47.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ISalaryService.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\Services\\Interfaces\\ISalaryService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Services\\Interfaces\\ISalaryService.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\Services\\Interfaces\\ISalaryService.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Services\\Interfaces\\ISalaryService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:19:15.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CreateDepartmentValidator.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\Validators\\CreateDepartmentValidator.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Validators\\CreateDepartmentValidator.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\Validators\\CreateDepartmentValidator.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Validators\\CreateDepartmentValidator.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T18:34:09.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\Services\\Interfaces\\IReportService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Services\\Interfaces\\IReportService.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\Services\\Interfaces\\IReportService.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Services\\Interfaces\\IReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:20:32.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IDesignationService.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\Services\\Interfaces\\IDesignationService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Services\\Interfaces\\IDesignationService.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\Services\\Interfaces\\IDesignationService.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Services\\Interfaces\\IDesignationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:17:55.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\Services\\Interfaces\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Services\\Interfaces\\IDepartmentService.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\Services\\Interfaces\\IDepartmentService.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Services\\Interfaces\\IDepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:16:16.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:19:54.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CreateEmployeeValidator.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\Validators\\CreateEmployeeValidator.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Validators\\CreateEmployeeValidator.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\Validators\\CreateEmployeeValidator.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Validators\\CreateEmployeeValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T18:32:13.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Configuration\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Configuration\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Configuration\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "EmployeeManagement.Configuration\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAIBJwFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T18:23:15.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "LoginRequestValidator.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\Validators\\LoginRequestValidator.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Validators\\LoginRequestValidator.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\Validators\\LoginRequestValidator.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Validators\\LoginRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T18:33:08.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "SalaryDisbursementValidator.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\Validators\\SalaryDisbursementValidator.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Validators\\SalaryDisbursementValidator.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\Validators\\SalaryDisbursementValidator.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Validators\\SalaryDisbursementValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T18:33:38.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "SalaryRepository.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Repositories\\Implementations\\SalaryRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Persistence\\Repositories\\Implementations\\SalaryRepository.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Repositories\\Implementations\\SalaryRepository.cs",
+              "RelativeToolTip": "EmployeeManagement.Persistence\\Repositories\\Implementations\\SalaryRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:38:47.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Repositories\\Implementations\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Persistence\\Repositories\\Implementations\\EmployeeRepository.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Repositories\\Implementations\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeManagement.Persistence\\Repositories\\Implementations\\EmployeeRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwA4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:37:19.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Persistence\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "EmployeeManagement.Persistence\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:28:21.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "SalaryDisbursementConfiguration.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Configurations\\SalaryDisbursementConfiguration.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Persistence\\Configurations\\SalaryDisbursementConfiguration.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Configurations\\SalaryDisbursementConfiguration.cs",
+              "RelativeToolTip": "EmployeeManagement.Persistence\\Configurations\\SalaryDisbursementConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:27:33.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "DesignationConfiguration.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Configurations\\DesignationConfiguration.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Persistence\\Configurations\\DesignationConfiguration.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Configurations\\DesignationConfiguration.cs",
+              "RelativeToolTip": "EmployeeManagement.Persistence\\Configurations\\DesignationConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:26:12.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "DepartmentConfiguration.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Persistence\\Configurations\\DepartmentConfiguration.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeToolTip": "EmployeeManagement.Persistence\\Configurations\\DepartmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:24:40.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "BaseEntityConfiguration.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Configurations\\BaseEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Persistence\\Configurations\\BaseEntityConfiguration.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\Configurations\\BaseEntityConfiguration.cs",
+              "RelativeToolTip": "EmployeeManagement.Persistence\\Configurations\\BaseEntityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:15:16.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\DTO\\Response\\Auth\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\DTO\\Response\\Auth\\AuthResponse.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\DTO\\Response\\Auth\\AuthResponse.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\DTO\\Response\\Auth\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:14:34.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "SalaryResponse.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\DTO\\Response\\Salary\\SalaryResponse.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\DTO\\Response\\Salary\\SalaryResponse.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\DTO\\Response\\Salary\\SalaryResponse.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\DTO\\Response\\Salary\\SalaryResponse.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvwgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:12:53.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "EmployeeResponse.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\DTO\\Response\\Employee\\EmployeeResponse.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\DTO\\Response\\Employee\\EmployeeResponse.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\DTO\\Response\\Employee\\EmployeeResponse.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\DTO\\Response\\Employee\\EmployeeResponse.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAywAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:12:00.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "DesignationResponse.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\DTO\\Response\\Designation\\DesignationResponse.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\DTO\\Response\\Designation\\DesignationResponse.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\DTO\\Response\\Designation\\DesignationResponse.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\DTO\\Response\\Designation\\DesignationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:11:00.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "DepartmentResponse.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\DTO\\Response\\Department\\DepartmentResponse.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\DTO\\Response\\Department\\DepartmentResponse.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\DTO\\Response\\Department\\DepartmentResponse.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\DTO\\Response\\Department\\DepartmentResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:09:55.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\DTO\\Request\\Auth\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\DTO\\Request\\Auth\\RegisterRequest.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\DTO\\Request\\Auth\\RegisterRequest.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\DTO\\Request\\Auth\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:08:30.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\DTO\\Request\\Auth\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\DTO\\Request\\Auth\\LoginRequest.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\DTO\\Request\\Auth\\LoginRequest.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\DTO\\Request\\Auth\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:07:47.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "SalaryDisbursementRequest.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\DTO\\Request\\Salary\\SalaryDisbursementRequest.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\DTO\\Request\\Salary\\SalaryDisbursementRequest.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\DTO\\Request\\Salary\\SalaryDisbursementRequest.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\DTO\\Request\\Salary\\SalaryDisbursementRequest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:06:29.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "UpdateEmployeeRequest.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\DTO\\Request\\Employee\\UpdateEmployeeRequest.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\DTO\\Request\\Employee\\UpdateEmployeeRequest.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\DTO\\Request\\Employee\\UpdateEmployeeRequest.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\DTO\\Request\\Employee\\UpdateEmployeeRequest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:05:29.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "CreateEmployeeRequest.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\DTO\\Request\\Employee\\CreateEmployeeRequest.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\DTO\\Request\\Employee\\CreateEmployeeRequest.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\DTO\\Request\\Employee\\CreateEmployeeRequest.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\DTO\\Request\\Employee\\CreateEmployeeRequest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:04:43.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "UpdateDesignationRequest.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\DTO\\Request\\Designation\\UpdateDesignationRequest.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\DTO\\Request\\Designation\\UpdateDesignationRequest.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\DTO\\Request\\Designation\\UpdateDesignationRequest.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\DTO\\Request\\Designation\\UpdateDesignationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:03:30.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "CreateDesignationRequest.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\DTO\\Request\\Designation\\CreateDesignationRequest.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\DTO\\Request\\Designation\\CreateDesignationRequest.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\DTO\\Request\\Designation\\CreateDesignationRequest.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\DTO\\Request\\Designation\\CreateDesignationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:02:27.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "UpdateDepartmentRequest.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\DTO\\Request\\Department\\UpdateDepartmentRequest.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\DTO\\Request\\Department\\UpdateDepartmentRequest.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\DTO\\Request\\Department\\UpdateDepartmentRequest.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\DTO\\Request\\Department\\UpdateDepartmentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:01:08.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "CreateDepartmentRequest.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Application\\DTO\\Request\\Department\\CreateDepartmentRequest.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\DTO\\Request\\Department\\CreateDepartmentRequest.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Application\\DTO\\Request\\Department\\CreateDepartmentRequest.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\DTO\\Request\\Department\\CreateDepartmentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:00:20.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Shared\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Shared\\Exceptions\\ValidationException.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Shared\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "EmployeeManagement.Shared\\Exceptions\\ValidationException.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T18:50:35.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "UnauthorizedException.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Shared\\Exceptions\\UnauthorizedException.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Shared\\Exceptions\\UnauthorizedException.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Shared\\Exceptions\\UnauthorizedException.cs",
+              "RelativeToolTip": "EmployeeManagement.Shared\\Exceptions\\UnauthorizedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T18:52:31.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Shared\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Shared\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Shared\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "EmployeeManagement.Shared\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T18:49:44.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "StandardResponse.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Shared\\Response\\StandardResponse.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Shared\\Response\\StandardResponse.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Shared\\Response\\StandardResponse.cs",
+              "RelativeToolTip": "EmployeeManagement.Shared\\Response\\StandardResponse.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T18:45:42.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ErrorDetails.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Shared\\Response\\ErrorDetails.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Shared\\Response\\ErrorDetails.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Shared\\Response\\ErrorDetails.cs",
+              "RelativeToolTip": "EmployeeManagement.Shared\\Response\\ErrorDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T18:45:02.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Shared\\Config\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Shared\\Config\\JwtSettings.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Shared\\Config\\JwtSettings.cs",
+              "RelativeToolTip": "EmployeeManagement.Shared\\Config\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T18:54:50.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "ResponseHelper.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Shared\\Response\\ResponseHelper.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Shared\\Response\\ResponseHelper.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Shared\\Response\\ResponseHelper.cs",
+              "RelativeToolTip": "EmployeeManagement.Shared\\Response\\ResponseHelper.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T18:47:55.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "ForbiddenException.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Shared\\Exceptions\\ForbiddenException.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Shared\\Exceptions\\ForbiddenException.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Shared\\Exceptions\\ForbiddenException.cs",
+              "RelativeToolTip": "EmployeeManagement.Shared\\Exceptions\\ForbiddenException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T18:53:20.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "SalaryDisbursement.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Domain\\Models\\SalaryDisbursement.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Domain\\Models\\SalaryDisbursement.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Domain\\Models\\SalaryDisbursement.cs",
+              "RelativeToolTip": "EmployeeManagement.Domain\\Models\\SalaryDisbursement.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:24:44.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "PaymentStatus.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Domain\\Enums\\PaymentStatus.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Domain\\Enums\\PaymentStatus.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Domain\\Enums\\PaymentStatus.cs",
+              "RelativeToolTip": "EmployeeManagement.Domain\\Enums\\PaymentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T19:17:46.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "EmployeeStatus.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Domain\\Enums\\EmployeeStatus.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Domain\\Enums\\EmployeeStatus.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Domain\\Enums\\EmployeeStatus.cs",
+              "RelativeToolTip": "EmployeeManagement.Domain\\Enums\\EmployeeStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:28:12.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Project(EMS)\\EmployeeManagement.Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "D:\\Project(EMS)\\EmployeeManagement.Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "EmployeeManagement.Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:21:34.262Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

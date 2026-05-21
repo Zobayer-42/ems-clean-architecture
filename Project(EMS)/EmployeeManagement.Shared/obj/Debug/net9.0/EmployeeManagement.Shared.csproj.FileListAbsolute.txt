@@ -1,0 +1,17 @@
+D:\Project(EMS)\EmployeeManagement.Shared\bin\Debug\net9.0\EmployeeManagement.Shared.deps.json
+D:\Project(EMS)\EmployeeManagement.Shared\bin\Debug\net9.0\EmployeeManagement.Shared.dll
+D:\Project(EMS)\EmployeeManagement.Shared\bin\Debug\net9.0\EmployeeManagement.Shared.pdb
+D:\Project(EMS)\EmployeeManagement.Shared\obj\Debug\net9.0\EmployeeManagement.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project(EMS)\EmployeeManagement.Shared\obj\Debug\net9.0\EmployeeManagement.Shared.AssemblyInfoInputs.cache
+D:\Project(EMS)\EmployeeManagement.Shared\obj\Debug\net9.0\EmployeeManagement.Shared.AssemblyInfo.cs
+D:\Project(EMS)\EmployeeManagement.Shared\obj\Debug\net9.0\EmployeeManagement.Shared.csproj.CoreCompileInputs.cache
+D:\Project(EMS)\EmployeeManagement.Shared\obj\Debug\net9.0\EmployeeManagement.Shared.dll
+D:\Project(EMS)\EmployeeManagement.Shared\obj\Debug\net9.0\refint\EmployeeManagement.Shared.dll
+D:\Project(EMS)\EmployeeManagement.Shared\obj\Debug\net9.0\EmployeeManagement.Shared.pdb
+D:\Project(EMS)\EmployeeManagement.Shared\obj\Debug\net9.0\ref\EmployeeManagement.Shared.dll
+D:\Project(EMS)\EmployeeManagement.Shared\bin\Debug\net9.0\EmployeeManagement.Domain.dll
+D:\Project(EMS)\EmployeeManagement.Shared\bin\Debug\net9.0\EmployeeManagement.Domain.pdb
+D:\Project(EMS)\EmployeeManagement.Shared\obj\Debug\net9.0\EmployeeManagement.Shared.csproj.AssemblyReference.cache
+D:\Project(EMS)\EmployeeManagement.Shared\obj\Debug\net9.0\Employee.53699E58.Up2Date
+D:\Project(EMS)\EmployeeManagement.Shared\bin\Debug\net9.0\EmployeeManagement.Shared.runtimeconfig.json
+D:\Project(EMS)\EmployeeManagement.Shared\obj\Debug\net9.0\EmployeeManagement.Shared.genruntimeconfig.cache
