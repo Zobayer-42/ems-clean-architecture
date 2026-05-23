@@ -2243,11 +2243,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project(EMS)\\EmployeeManagement.Shared\\EmployeeManagement.Shared.csproj",
+      "projectUniqueName": "D:\\Project EMS\\Project(EMS)\\EmployeeManagement.Shared\\EmployeeManagement.Shared.csproj",
       "projectName": "EmployeeManagement.Shared",
-      "projectPath": "D:\\Project(EMS)\\EmployeeManagement.Shared\\EmployeeManagement.Shared.csproj",
+      "projectPath": "D:\\Project EMS\\Project(EMS)\\EmployeeManagement.Shared\\EmployeeManagement.Shared.csproj",
       "packagesPath": "C:\\Users\\JUBAIR AHMED\\.nuget\\packages\\",
-      "outputPath": "D:\\Project(EMS)\\EmployeeManagement.Shared\\obj\\",
+      "outputPath": "D:\\Project EMS\\Project(EMS)\\EmployeeManagement.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2269,8 +2269,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\Project(EMS)\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj": {
-              "projectPath": "D:\\Project(EMS)\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj"
+            "D:\\Project EMS\\Project(EMS)\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj": {
+              "projectPath": "D:\\Project EMS\\Project(EMS)\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj"
             }
           }
         }

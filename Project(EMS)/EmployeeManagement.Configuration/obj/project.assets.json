@@ -4154,11 +4154,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project(EMS)\\EmployeeManagement.Configuration\\EmployeeManagement.Configuration.csproj",
+      "projectUniqueName": "D:\\Project EMS\\Project(EMS)\\EmployeeManagement.Configuration\\EmployeeManagement.Configuration.csproj",
       "projectName": "EmployeeManagement.Configuration",
-      "projectPath": "D:\\Project(EMS)\\EmployeeManagement.Configuration\\EmployeeManagement.Configuration.csproj",
+      "projectPath": "D:\\Project EMS\\Project(EMS)\\EmployeeManagement.Configuration\\EmployeeManagement.Configuration.csproj",
       "packagesPath": "C:\\Users\\JUBAIR AHMED\\.nuget\\packages\\",
-      "outputPath": "D:\\Project(EMS)\\EmployeeManagement.Configuration\\obj\\",
+      "outputPath": "D:\\Project EMS\\Project(EMS)\\EmployeeManagement.Configuration\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4180,17 +4180,17 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\Project(EMS)\\EmployeeManagement.Application\\EmployeeManagement.Application.csproj": {
-              "projectPath": "D:\\Project(EMS)\\EmployeeManagement.Application\\EmployeeManagement.Application.csproj"
+            "D:\\Project EMS\\Project(EMS)\\EmployeeManagement.Application\\EmployeeManagement.Application.csproj": {
+              "projectPath": "D:\\Project EMS\\Project(EMS)\\EmployeeManagement.Application\\EmployeeManagement.Application.csproj"
             },
-            "D:\\Project(EMS)\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj": {
-              "projectPath": "D:\\Project(EMS)\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj"
+            "D:\\Project EMS\\Project(EMS)\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj": {
+              "projectPath": "D:\\Project EMS\\Project(EMS)\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj"
             },
-            "D:\\Project(EMS)\\EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj": {
-              "projectPath": "D:\\Project(EMS)\\EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj"
+            "D:\\Project EMS\\Project(EMS)\\EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj": {
+              "projectPath": "D:\\Project EMS\\Project(EMS)\\EmployeeManagement.Persistence\\EmployeeManagement.Persistence.csproj"
             },
-            "D:\\Project(EMS)\\EmployeeManagement.Shared\\EmployeeManagement.Shared.csproj": {
-              "projectPath": "D:\\Project(EMS)\\EmployeeManagement.Shared\\EmployeeManagement.Shared.csproj"
+            "D:\\Project EMS\\Project(EMS)\\EmployeeManagement.Shared\\EmployeeManagement.Shared.csproj": {
+              "projectPath": "D:\\Project EMS\\Project(EMS)\\EmployeeManagement.Shared\\EmployeeManagement.Shared.csproj"
             }
           }
         }

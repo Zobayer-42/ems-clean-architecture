@@ -45,8 +45,8 @@ EmployeeManagementSystem/
 -json
 {
   "ConnectionStrings": {
-    "MsSqlConnection": "Server=localhost;Database=EmployeeManagementDB;Trusted_Connection=True;TrustServerCertificate=True;",
-    "PostgresConnection": "Host=localhost;Database=EmsLogs;Username=postgres;Password=yourpassword"
+    "MsSqlConnection": "Server=ZOBAYER\\SQLEXPRESS;Database=EmployeeManagementDB;User Id=sa;Password=123;TrustServerCertificate=True;",
+    "PostgresConnection": "Host=localhost;Port=5432;Database=EmsLogs;Username=postgres;Password=1234"
   },
   "JwtSettings": {
     "SecretKey": "YourSuperSecretKeyHereMustBe32CharactersLong!",
